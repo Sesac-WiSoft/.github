@@ -1,12 +1,32 @@
 # AI 기반 맞춤형 면접 코치 플랫폼
 
-> AI가 제공하는 맞춤형 면접 질문과 피드백으로 취업 준비의 부담을 덜어주는 플랫폼
+> **취준 루틴을 AI가 함께 만듭니다.**  
+> 매일, 혹은 매주 - 당신에게 꼭 맞는 면접 질문, 답변, 피드백 제공
+
+<img width="660" height="660" alt="image" src="https://github.com/user-attachments/assets/096760b7-b4f8-4f2e-96c6-af1b1b74c646" />
+
+
+</br>
+
 
 ## 프로젝트 소개
 
-취준생의 **71.9%** 가 면접을 가장 어려워하고, **5명 중 3명**이 면접 들러리 경험을 겪는 현실에서 출발한 프로젝트입니다.
+취준생의 **71.9%** 가 “면접이 가장 어렵다”고 말하고,  
+**5명 중 3명**은 ‘면접 들러리 경험’을 겪는 현실에서 이 프로젝트는 시작되었습니다.
 
-AI 기술을 활용하여 사용자의 직업군에 맞는 면접 질문을 정기적으로 제공하고, 답변에 대한 상세한 피드백과 점수를 제공하여 실전 면접 준비를 돕습니다.
+> "어떤 질문이 나올지 모르겠다"  
+> "내 답변이 괜찮은지 확인할 사람이 없다"  
+> "혼자 연습하면 점점 불안해진다"
+
+이 문제를 해결하기 위해, 우리는 **AI 기반 면접 코치 플랫폼**을 만들었습니다.
+
+- 사용자 직무 기반 **맞춤형 질문 생성**  
+- 정기적인 **면접 루틴 형성**  
+- AI 기반 **답변에 대한 객관적 평가 및 상세한 피드백과 점수 제공**  
+- 답변 히스토리 관리 및 **장기 성장 추적**
+
+당신의 면접 준비를 ‘습관’으로 바꾸고  
+실전에서 흔들리지 않는 자신감을 키우는 서비스입니다.
 
 ### 주요 기능
 
@@ -64,10 +84,10 @@ AI 기술을 활용하여 사용자의 직업군에 맞는 면접 질문을 정�
 - [인잡핏 면접 실태 조사: 취준생 71.9% "면접이 가장 어렵다"](https://www.dhnews.co.kr/news/view/1065585199757801)
 
 
-## 팀
-- 팀장: [문동민](https://github.com/MoonDongmin)
-- 팀원: [신보연](https://github.com/Boyeon-Shin)
-- 팀원: [이은채](https://github.com/wanyam2)
-- 팀원: [왕우민](https://github.com/Woomin-Wang)
+## 👥 팀원 소개
+역할 | 팀장 | 팀원 | 팀원 | 팀원 |
+|:---:|:---:|:---:|:---:|:---:|
+이름 | 문동민 | 신보연 | 이은채 | 왕우민 |
+GitHub | <a href="https://github.com/MoonDongmin"><img src="https://github.com/MoonDongmin.png" width="100" height="100"/></a> | <a href="https://github.com/Boyeon-Shin"><img src="https://github.com/Boyeon-Shin.png" width="100" height="100"/></a> | <a href="https://github.com/wanyam2"><img src="https://github.com/wanyam2.png" width="100" height="100"/></a> | <a href="https://github.com/Woomin-Wang"><img src="https://github.com/Woomin-Wang.png" width="100" height="100"/></a> |
 
 이 프로젝트는 대회 출품을 목적으로 개발되었습니다.

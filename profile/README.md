@@ -35,15 +35,14 @@
 ### 1. 맞춤형 면접 질문 생성
 <table>
 <tr>
-<td width="40%" style="vertical-align: middle;">
+<td width="400" style="vertical-align: middle;">
   <div style="min-height: 230px; display: flex; align-items: center;">
     사용자의 직업군 <br/>
     (개발자, 디자이너, 기획자 등)에 <br/>
     최적화된 AI 기반 면접 질문을 제공합니다.
   </div>
 </td>
-
-<td width="30%" align="right" style="vertical-align: middle;">
+<td width="300" align="right" style="vertical-align: middle;">
   <img src="https://github.com/user-attachments/assets/50b37405-0eaf-4058-ad09-c5c4e30b90c8"
        width="300"
        style="border-radius: 12px;" />
@@ -51,17 +50,16 @@
 </tr>
 </table>
 
-
 ### 2. 정기 알림 시스템
 <table>
 <tr>
-<td width="40%" style="vertical-align: middle;">
+<td width="400" style="vertical-align: middle;">
   <div style="min-height: 230px; display: flex; align-items: center;">
     사용자의 설정(매일/주간)에 따라 <br/>
     이메일 또는 카카오톡으로 면접 질문을 자동 발송합니다.
   </div>
 </td>
-<td width="30%" align="right" style="vertical-align: middle;">
+<td width="300" align="right" style="vertical-align: middle;">
   <img src="IMAGE_URL_HERE"
        width="300"
        style="border-radius: 12px;" />
@@ -72,14 +70,14 @@
 ### 3. AI 기반 피드백
 <table>
 <tr>
-<td width="40%" style="vertical-align: middle;">
+<td width="400" style="vertical-align: middle;">
   <div style="min-height: 230px; display: flex; align-items: center;">
     AI가 사용자의 답변을 분석하여  <br/>
     점수(0~100점), 잘한 점, 개선할 점,  <br/>
     추천 학습 자료를 제공합니다.
   </div>
 </td>
-<td width="30%" align="right" style="vertical-align: middle;">
+<td width="300" align="right" style="vertical-align: middle;">
   <img src="https://github.com/user-attachments/assets/45ed6107-ebc3-4689-8651-0bf17add730f"
        width="300"
        style="border-radius: 12px;" />
@@ -90,14 +88,14 @@
 ### 4. 리워드 시스템
 <table>
 <tr>
-<td width="40%" style="vertical-align: middle;">
+<td width="400" style="vertical-align: middle;">
   <div style="min-height: 260px; display: flex; align-items: center;">
     답변을 통해 얻은 점수로   <br/>
     쿠폰 및 상품으로 교환 가능한  <br/>
     리워드 시스템을 제공합니다.
   </div>
 </td>
-<td width="35%" align="right" style="vertical-align: middle;">
+<td width="300" align="right" style="vertical-align: middle;">
   <img src="https://github.com/user-attachments/assets/002621d5-8cc4-40b3-a221-50ddb8f9c1ea"
        width="300"
        style="border-radius: 12px;" />
@@ -112,7 +110,7 @@
 ### 5. 답변 히스토리 관리
 <table>
 <tr>
-<td width="55%" style="vertical-align: middle;">
+<td width="400" style="vertical-align: middle;">
   <div style="min-height: 230px; display: flex; align-items: center;">
     과거의 모든 질문과 답변, <br/>
     그리고 AI 피드백을   <br/>
@@ -120,7 +118,7 @@
     히스토리 페이지를 제공합니다.
   </div>
 </td>
-<td width="45%" align="right" style="vertical-align: middle;">
+<td width="300" align="right" style="vertical-align: middle;">
   <img src="https://github.com/user-attachments/assets/22b78087-e053-49d0-a9dc-ae5f941234e9"
        width="300"
        style="border-radius: 12px;" />

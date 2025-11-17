@@ -60,7 +60,7 @@
   </div>
 </td>
 <td width="300" align="right" style="vertical-align: middle;">
-  <img src="IMAGE_URL_HERE"
+  <img src="https://github.com/user-attachments/assets/95cf6f0c-3eee-4ab7-b5aa-56602f78c051"
        width="300"
        style="border-radius: 12px;" />
 </td>

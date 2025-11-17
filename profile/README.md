@@ -1,12 +1,9 @@
-# AI 기반 맞춤형 면접 코치 플랫폼
+# PrePair - AI 기반 맞춤형 면접 코치 플랫폼
 
-> **취준 루틴을 AI가 함께 만듭니다.**  
-> 매일, 혹은 매주 - 당신에게 꼭 맞는 면접 질문, 답변, 피드백 제공
+<strong>취준 루틴을 AI가 함께 만듭니다.</strong><br/>
+매일, 혹은 매주 - 당신에게 꼭 맞는 면접 질문 • 답변 • 피드백 제공
 
-<img width="660" height="660" alt="image" src="https://github.com/user-attachments/assets/096760b7-b4f8-4f2e-96c6-af1b1b74c646" />
-
-
-</br>
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/b4b5b1e5-65e7-41da-af04-985bf98f0d3a" />
 
 
 ## 프로젝트 소개

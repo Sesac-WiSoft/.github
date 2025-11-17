@@ -133,7 +133,7 @@
 
 ### Backend
 - Node.js / NestJS
-- Java
+- Java(Spring Boot)
 - PostgreSQL
 
 ### Frontend
@@ -142,7 +142,7 @@
 
 ### AI & External APIs
 - OpenAI API (면접 질문 생성 및 피드백)
-- Ollama
+- Ollama 모델 
 - [한국고용정보원 워크넷 API](https://www.data.go.kr/data/3038225/openapi.do)
 
 ## 주요 흐름
@@ -151,6 +151,7 @@
 1. 이메일/비밀번호로 회원가입 또는 로그인
 2. 직업군 선택 (개발자, 디자이너, 기획자 등)
 3. 질문 수신 주기 설정 (매일/주 1회)
+4. 카카오톡/이메일 알림 설정  
 
 ### 2. 면접 질문 수신
 1. 설정한 주기에 따라 이메일/카카오톡으로 면접 질문 수신

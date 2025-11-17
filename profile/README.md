@@ -34,9 +34,9 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 ##  목차
 
 - [프로젝트 소개](#-프로젝트-소개)
-  - [배경](#-배경)
-  - [솔루션](#-솔루션)
-  - [핵심 가치](#-핵심-가치)
+    - [배경](#-배경)
+    - [솔루션](#-솔루션)
+    - [핵심 가치](#-핵심-가치)
 - [주요 기능](#-주요-기능)
 - [기술 스택](#-기술-스택)
 - [시스템 아키텍처](#-시스템-아키텍처)
@@ -53,11 +53,11 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 <h3>71.9%</h3>
 <p>취준생이 "면접이 가장 어렵다"고 응답</p>
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 <h3>5명 중 3명</h3>
 <p>면접 들러리 경험 보유</p>
 </td>
@@ -89,16 +89,16 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 
 <table>
 <tr>
-<td width="33%" align="center">
-<h3> 개인화</h3>
+<td width="33%" align="center" valign="middle">
+<h3>개인화</h3>
 <p>직무별 맞춤형 질문으로<br/>실전에 가까운 연습</p>
 </td>
-<td width="33%" align="center">
-<h3> 루틴화</h3>
+<td width="33%" align="center" valign="middle">
+<h3>루틴화</h3>
 <p>정기 알림으로<br/>면접 준비를 습관으로</p>
 </td>
-<td width="33%" align="center">
-<h3> 객관화</h3>
+<td width="33%" align="center" valign="middle">
+<h3>객관화</h3>
 <p>AI 기반 평가로<br/>객관적인 피드백 제공</p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 
 <table>
 <tr>
-<td width="450">
+<td width="450" valign="top">
 <h4>직무 기반 질문 생성</h4>
 <p>사용자의 직업군(개발자, 디자이너, 기획자 등)에 최적화된 AI 기반 면접 질문을 생성합니다.</p>
 <ul>
@@ -123,7 +123,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 <li>직무별 핵심 역량 평가 질문</li>
 </ul>
 </td>
-<td width="300" align="center">
+<td width="300" align="center" valign="middle">
 <img src="https://github.com/user-attachments/assets/50b37405-0eaf-4058-ad09-c5c4e30b90c8" width="280" style="border-radius: 12px;" />
 </td>
 </tr>
@@ -131,11 +131,11 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 
 <br/>
 
-### 2.️ 정기 알림 시스템
+### 2. 정기 알림 시스템
 
 <table>
 <tr>
-<td width="450">
+<td width="450" valign="top">
 <h4>스마트 알림</h4>
 <p>사용자가 설정한 주기(매일/주간)에 따라 이메일 또는 카카오톡으로 면접 질문을 자동 발송합니다.</p>
 <ul>
@@ -144,7 +144,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 <li>원클릭 답변 작성 링크 제공</li>
 </ul>
 </td>
-<td width="300" align="center">
+<td width="300" align="center" valign="middle">
 <img src="https://github.com/user-attachments/assets/95cf6f0c-3eee-4ab7-b5aa-56602f78c051" width="280" style="border-radius: 12px;" />
 </td>
 </tr>
@@ -156,7 +156,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 
 <table>
 <tr>
-<td width="450">
+<td width="450" valign="top">
 <h4>상세한 답변 분석</h4>
 <p>AI가 사용자의 답변을 다각도로 분석하여 즉각적인 피드백을 제공합니다.</p>
 <ul>
@@ -166,7 +166,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 <li><strong>학습 자료</strong>: 추천 학습 리소스 제공</li>
 </ul>
 </td>
-<td width="300" align="center">
+<td width="300" align="center" valign="middle">
 <img src="https://github.com/user-attachments/assets/45ed6107-ebc3-4689-8651-0bf17add730f" width="280" style="border-radius: 12px;" />
 </td>
 </tr>
@@ -178,7 +178,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 
 <table>
 <tr>
-<td width="450">
+<td width="450" valign="top">
 <h4>동기부여 시스템</h4>
 <p>답변을 통해 얻은 점수를 누적하여 실질적인 혜택으로 교환할 수 있습니다.</p>
 <ul>
@@ -188,7 +188,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 <li>지속적인 학습 동기 부여</li>
 </ul>
 </td>
-<td width="300" align="center">
+<td width="300" align="center" valign="middle">
 <img src="https://github.com/user-attachments/assets/002621d5-8cc4-40b3-a221-50ddb8f9c1ea" width="280" style="border-radius: 12px;" />
 <br/><br/>
 <img src="https://github.com/user-attachments/assets/9d85db33-a3cb-4c10-a17c-d034b6cdc6cc" width="280" style="border-radius: 12px;" />
@@ -202,8 +202,8 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 
 <table>
 <tr>
-<td width="450">
-<h4>성장 분석</h4>
+<td width="450" valign="top">
+<h4>성장 추적</h4>
 <p>과거의 모든 질문과 답변, AI 피드백을 한눈에 확인할 수 있습니다.</p>
 <ul>
 <li>전체 답변 히스토리 조회</li>
@@ -212,7 +212,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 <li>반복 학습 지원</li>
 </ul>
 </td>
-<td width="300" align="center">
+<td width="300" align="center" valign="middle">
 <img src="https://github.com/user-attachments/assets/22b78087-e053-49d0-a9dc-ae5f941234e9" width="280" style="border-radius: 12px;" />
 </td>
 </tr>
@@ -367,15 +367,15 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 
 <table align="center">
 <tr>
-<td align="center" width="200">
+<td align="center" width="200" valign="top">
 <img src="https://github.com/MoonDongmin.png" width="120" height="120" style="border-radius: 50%;"/><br/>
 <b>문동민</b><br/>
-<sub>Team Leader</sub><br/>
+<sub>Team Leader (Developer)</sub><br/>
 <a href="https://github.com/MoonDongmin">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="200">
+<td align="center" width="200" valign="top">
 <img src="https://github.com/Boyeon-Shin.png" width="120" height="120" style="border-radius: 50%;"/><br/>
 <b>신보연</b><br/>
 <sub>Developer</sub><br/>
@@ -383,7 +383,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="200">
+<td align="center" width="200" valign="top">
 <img src="https://github.com/wanyam2.png" width="120" height="120" style="border-radius: 50%;"/><br/>
 <b>이은채</b><br/>
 <sub>Developer</sub><br/>
@@ -391,7 +391,7 @@ _당신의 면접 준비, AI와 함께 완성하세요_
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="200">
+<td align="center" width="200" valign="top">
 <img src="https://github.com/Woomin-Wang.png" width="120" height="120" style="border-radius: 50%;"/><br/>
 <b>왕우민</b><br/>
 <sub>Developer</sub><br/>
